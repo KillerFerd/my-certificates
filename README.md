@@ -21,3 +21,7 @@ Certificates related to cybersecurity, ethical hacking, GRC, ISO standards, risk
 ## Web Solutions
 
 Certificates related to web development, frontend, backend, UI design, and web technologies.
+
+## Educational Pathway
+
+Certificates, diplomas, academic records, and supporting documents related to formal education, organized by educational level.
