@@ -25,3 +25,7 @@ Certificates related to web development, frontend, backend, UI design, and web t
 ## Educational Pathway
 
 Certificates, diplomas, academic records, and supporting documents related to formal education, organized by educational level.
+
+## English
+
+Certificates related to English language learning, grammar, vocabulary, pronunciation, listening, speaking, reading, writing, and professional communication.
